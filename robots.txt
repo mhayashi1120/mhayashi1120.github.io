@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mhayashi1120.github.io/sitemap.xml
+Sitemap: https://github.mhayashi1120.net/sitemap.xml
